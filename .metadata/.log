@@ -1,0 +1,1836 @@
+!SESSION 2017-03-29 00:40:46.709 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-29 00:41:02.112
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-29 18:13:38.337 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-29 18:14:23.631
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-29 23:00:32.853
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2017-03-29 23:00:32.853
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:32.853
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:32.854
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:32.854
+!MESSAGE "Eclipse Web Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-29 23:00:32.854
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.854
+!MESSAGE Software being installed: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.854
+!MESSAGE Missing requirement: Preview Server Support 1.1.101.v20111212_1019 (org.eclipse.wst.server.preview 1.1.101.v20111212_1019) requires 'bundle org.eclipse.jetty.http [8.0.4,9.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-29 23:00:32.854
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.854
+!MESSAGE From: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.854
+!MESSAGE To: org.eclipse.wst.server.preview [1.1.101.v20111212_1019]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-29 23:00:32.964
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2017-03-29 23:00:32.964
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:32.964
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:32.964
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:32.964
+!MESSAGE "Eclipse Web Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-29 23:00:32.964
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.964
+!MESSAGE Software being installed: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.965
+!MESSAGE Missing requirement: Preview Server Support 1.1.101.v20111212_1019 (org.eclipse.wst.server.preview 1.1.101.v20111212_1019) requires 'bundle org.eclipse.jetty.http [8.0.4,9.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-29 23:00:32.965
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.965
+!MESSAGE From: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:32.965
+!MESSAGE To: org.eclipse.wst.server.preview [1.1.101.v20111212_1019]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-29 23:00:33.111
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2017-03-29 23:00:33.111
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:33.111
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:33.111
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:33.111
+!MESSAGE "Eclipse Web Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-29 23:00:33.111
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.111
+!MESSAGE Software being installed: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.111
+!MESSAGE Missing requirement: Preview Server Support 1.1.101.v20111212_1019 (org.eclipse.wst.server.preview 1.1.101.v20111212_1019) requires 'bundle org.eclipse.jetty.http [8.0.4,9.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-29 23:00:33.111
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.112
+!MESSAGE From: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.112
+!MESSAGE To: org.eclipse.wst.server.preview [1.1.101.v20111212_1019]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-29 23:00:33.114
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2017-03-29 23:00:33.114
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:33.114
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:33.114
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:00:33.114
+!MESSAGE "Eclipse Web Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-29 23:00:33.114
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.114
+!MESSAGE Software being installed: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.114
+!MESSAGE Missing requirement: Preview Server Support 1.1.101.v20111212_1019 (org.eclipse.wst.server.preview 1.1.101.v20111212_1019) requires 'bundle org.eclipse.jetty.http [8.0.4,9.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-03-29 23:00:33.114
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.114
+!MESSAGE From: WST Server Adapters 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K (org.eclipse.wst.server_adapters.feature.feature.group 3.2.101.v20111212_1019-51F8OAkF79S8JCTA597K)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-03-29 23:00:33.114
+!MESSAGE To: org.eclipse.wst.server.preview [1.1.101.v20111212_1019]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2017-03-29 23:24:20.652
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:128)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor66.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:440)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:126)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:75)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:231)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	... 17 more
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1002 2017-03-29 23:24:20.720
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor66.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:440)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:126)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:75)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:231)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2017-03-29 23:24:21.752
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:128)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor66.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:440)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:126)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getRepository(MetadataRepositoryElement.java:115)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getQueryable(MetadataRepositoryElement.java:109)
+	at org.eclipse.equinox.internal.p2.ui.QueryProvider.getQueryDescriptor(QueryProvider.java:88)
+	at org.eclipse.equinox.internal.p2.ui.model.QueriedElement.fetchChildren(QueriedElement.java:101)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:77)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:231)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	... 21 more
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1002 2017-03-29 23:24:21.753
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor66.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.ProvisioningUI.loadMetadataRepository(ProvisioningUI.java:440)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getMetadataRepository(MetadataRepositoryElement.java:126)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getRepository(MetadataRepositoryElement.java:115)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.getQueryable(MetadataRepositoryElement.java:109)
+	at org.eclipse.equinox.internal.p2.ui.QueryProvider.getQueryDescriptor(QueryProvider.java:88)
+	at org.eclipse.equinox.internal.p2.ui.model.QueriedElement.fetchChildren(QueriedElement.java:101)
+	at org.eclipse.equinox.internal.p2.ui.model.MetadataRepositoryElement.fetchChildren(MetadataRepositoryElement.java:77)
+	at org.eclipse.equinox.internal.p2.ui.model.RemoteQueriedElement.fetchDeferredChildren(RemoteQueriedElement.java:34)
+	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:231)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-29 23:57:20.313
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2017-03-29 23:57:20.313
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:57:20.313
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-29 23:57:20.325
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2017-03-29 23:57:20.325
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:57:20.325
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-29 23:57:20.372
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2017-03-29 23:57:20.372
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:57:20.372
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-03-29 23:57:20.374
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2017-03-29 23:57:20.374
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2017-03-29 23:57:20.374
+!MESSAGE "JavaScript Development Tools" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2017-03-30 00:17:51.917
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\Harry\AppData\Local\Temp\epp.package.java_2b6384ae1300_c0a80104e5ab
+!SESSION 2017-03-30 00:19:08.630 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-30 00:19:36.982
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-30 04:51:28.633 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-30 04:51:40.964
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-30 13:46:08.387 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-30 13:46:48.003
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-31 18:28:56.426 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-31 18:29:45.580
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-04-01 02:23:10.048 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-01 02:23:25.487
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-04-01 18:33:47.229 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-01 18:34:28.515
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2017-04-02 03:29:52.487
+!MESSAGE Conflicting handlers for org.eclipse.wst.sse.ui.cleanup.document: {org.eclipse.wst.html.ui.internal.edit.ui.CleanupDocumentHandler} vs {org.eclipse.wst.html.ui.internal.edit.ui.CleanupDocumentHandler}
+!SESSION 2017-04-02 15:28:00.500 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-02 15:28:38.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-04-02 18:42:17.828 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-02 18:42:34.516
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2017-04-02 20:45:59.618
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@33e2e5)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@33e2e5)}
+
+!ENTRY org.eclipse.ui 4 4 2017-04-02 21:01:17.855
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@33e2e5)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@33e2e5)}
+!SESSION 2017-04-02 23:01:48.122 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-02 23:01:59.195
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2017-04-03 01:02:27.360
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-03 01:02:27.360
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.m2e.core.ui.command.addPlugin,Add Maven Plugin,
+		Add Maven Plugin,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@145f704,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.core.runtime.xml,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Character,
+		Go to Matching Character,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ddd7e4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.php.ui.editor.goto.matching.bracket,Go to Matching Bracket,
+		Moves the cursor to the matching bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1df57a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.php.ui.phpEditorScope,,,system)
+
+!ENTRY org.eclipse.ui 4 4 2017-04-03 01:02:27.509
+!MESSAGE Conflicting handlers for org.eclipse.wst.sse.ui.cleanup.document: {org.eclipse.wst.html.ui.internal.edit.ui.CleanupDocumentHandler} vs {org.eclipse.wst.html.ui.internal.edit.ui.CleanupDocumentHandler}
+
+!ENTRY org.eclipse.ui 4 4 2017-04-03 01:04:04.452
+!MESSAGE Conflicting handlers for org.eclipse.wst.sse.ui.cleanup.document: {org.eclipse.wst.html.ui.internal.edit.ui.CleanupDocumentHandler} vs {org.eclipse.wst.html.ui.internal.edit.ui.CleanupDocumentHandler}
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2017-04-03 01:13:13.860
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.core.resources.ProjectScope.<init>(ProjectScope.java:57)
+	at org.eclipse.php.internal.core.preferences.PreferencesPropagator.getProjectScope(PreferencesPropagator.java:199)
+	at org.eclipse.php.internal.core.preferences.PreferencesPropagator.isProjectSpecific(PreferencesPropagator.java:185)
+	at org.eclipse.php.internal.core.preferences.PreferencesPropagator.removePropagatorListener(PreferencesPropagator.java:85)
+	at org.eclipse.php.internal.ui.editor.PHPStructuredEditor.dispose(PHPStructuredEditor.java:1142)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.invalidate(CompatibilityPart.java:237)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.destroy(CompatibilityPart.java:403)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:966)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:931)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.uninject(InjectorImpl.java:212)
+	at org.eclipse.e4.core.internal.di.Requestor.uninject(Requestor.java:170)
+	at org.eclipse.e4.core.internal.contexts.ContextObjectSupplier$ContextInjectionListener.update(ContextObjectSupplier.java:84)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.update(TrackableComputationExt.java:111)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.removeListenersTo(EclipseContext.java:471)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.uninject(ContextInjectionFactory.java:144)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:927)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$1(PartRenderingEngine.java:846)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$3.run(PartRenderingEngine.java:841)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:825)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeTopicToBeRendered(PartRenderingEngine.java:173)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:80)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setToBeRendered(UIElementImpl.java:303)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1350)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1590)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1503)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1636)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor$9.run(StructuredTextEditor.java:1244)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.ui 4 4 2017-04-03 02:21:46.942
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@2b8358)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@2b8358)}
+!SESSION 2017-04-03 21:14:36.641 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-03 21:15:07.227
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2017-04-04 00:33:59.750
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@1dbdea7)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@1dbdea7)}
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-04-04 04:27:10.668
+!MESSAGE StructuredTextViewer.exception.verifyText
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.php.internal.core.format.CurlyCloseIndentationStrategy.getCurlyOpenLineInformation(CurlyCloseIndentationStrategy.java:71)
+	at org.eclipse.php.internal.core.format.CurlyCloseIndentationStrategy.placeMatchingBlanks(CurlyCloseIndentationStrategy.java:28)
+	at org.eclipse.php.internal.ui.autoEdit.CurlyCloseAutoEditStrategy.autoIndentAfterCurlyClose(CurlyCloseAutoEditStrategy.java:43)
+	at org.eclipse.php.internal.ui.autoEdit.CurlyCloseAutoEditStrategy.customizeDocumentCommand(CurlyCloseAutoEditStrategy.java:29)
+	at org.eclipse.php.internal.ui.autoEdit.MainAutoEditStrategy.customizeDocumentCommand(MainAutoEditStrategy.java:75)
+	at org.eclipse.jface.text.TextViewer.customizeDocumentCommand(TextViewer.java:3613)
+	at org.eclipse.jface.text.TextViewer.handleVerifyEvent(TextViewer.java:3650)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.handleVerifyEvent(ProjectionViewer.java:1243)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.handleVerifyEvent(StructuredTextViewer.java:769)
+	at org.eclipse.jface.text.TextViewer$TextVerifyListener.verifyText(TextViewer.java:431)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:274)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:802)
+	at org.eclipse.swt.custom.StyledText.modifyContent(StyledText.java:7342)
+	at org.eclipse.swt.custom.StyledText.sendKeyEvent(StyledText.java:8222)
+	at org.eclipse.swt.custom.StyledText.doContent(StyledText.java:2530)
+	at org.eclipse.swt.custom.StyledText.handleKey(StyledText.java:6018)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6049)
+	at org.eclipse.swt.custom.StyledText$7.handleEvent(StyledText.java:5733)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SESSION 2017-04-04 15:50:31.255 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-04 15:50:58.866
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-04-05 20:50:41.400 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-05 20:51:10.371
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-04-06 02:37:31.345 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-06 02:37:44.045
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-28 05:00:30.111 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-28 05:00:47.678
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-05-28 05:00:50.406
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+!SESSION 2017-05-28 13:15:29.065 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-28 13:15:51.196
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-05-28 13:15:54.415
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-28 13:46:48.564
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-28 13:46:51.581
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-05-28 13:47:21.082
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor46.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+!SESSION 2017-05-28 14:15:07.134 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-28 14:15:33.862
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-05-28 14:15:38.596
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-28 14:27:35.838
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-28 14:27:38.588
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-05-28 14:28:00.261
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor45.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.ui 4 4 2017-05-28 20:21:37.890
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@1594e6c)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@1594e6c)}
+!SESSION 2017-05-29 02:38:31.570 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-29 02:38:49.215
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-05-29 02:38:49.237
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-29 02:42:27.386
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-29 02:42:30.012
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-05-29 02:42:51.722
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor45.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+!SESSION 2017-06-21 19:24:57.963 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-21 19:25:35.007
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-06-21 19:25:41.613
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+!SESSION 2017-07-01 18:50:49.569 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-07-01 18:51:04.763
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-07-01 18:51:06.322
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+!SESSION 2017-07-15 18:51:09.079 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-07-15 18:51:33.758
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2017-07-15 18:51:42.528
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Impossible de télécharger le script de configuration automatique du Proxy
+' #12167.
+!SESSION 2017-09-21 03:32:03.004 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-21 03:32:32.258
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-21 03:32:49.961
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.exists(AbstractDebuggerSettingsProvider.java:225)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.load(AbstractDebuggerSettingsProvider.java:285)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.fetchProviders(DebuggerSettingsProviderRegistry.java:146)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.readFromExtensionPoint(DebuggerSettingsProviderRegistry.java:105)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProviders(DebuggerSettingsProviderRegistry.java:80)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProvider(DebuggerSettingsProviderRegistry.java:71)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<init>(DebuggerSettingsManager.java:148)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<clinit>(DebuggerSettingsManager.java:36)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.perform(PHPDebugPlugin.java:105)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.access$0(PHPDebugPlugin.java:96)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart$1.run(PHPDebugPlugin.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-21 04:04:21.962
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-09-21 04:04:27.405
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor54.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-21 04:04:29.842
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-21 04:04:32.439
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+!SESSION 2017-09-21 16:19:31.956 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-21 16:19:35.679
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-21 16:20:01.604
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-21 16:20:18.356
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.debug.ui.DebugEarlyStartup.earlyStartup(DebugEarlyStartup.java:36)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:77)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:53)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2835)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2017-09-21 23:51:22.024 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-21 23:51:38.297
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-21 23:51:46.290
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.exists(AbstractDebuggerSettingsProvider.java:225)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.load(AbstractDebuggerSettingsProvider.java:285)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.fetchProviders(DebuggerSettingsProviderRegistry.java:146)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.readFromExtensionPoint(DebuggerSettingsProviderRegistry.java:105)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProviders(DebuggerSettingsProviderRegistry.java:80)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProvider(DebuggerSettingsProviderRegistry.java:71)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<init>(DebuggerSettingsManager.java:148)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<clinit>(DebuggerSettingsManager.java:36)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.perform(PHPDebugPlugin.java:105)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.access$0(PHPDebugPlugin.java:96)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart$1.run(PHPDebugPlugin.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2017-09-29 03:51:25.107 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-29 03:51:43.705
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-29 03:51:56.703
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.debug.ui.DebugEarlyStartup.earlyStartup(DebugEarlyStartup.java:36)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:77)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:53)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2835)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-09-29 04:01:10.187
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.187
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.187
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.188
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.188
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.188
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.188
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.188
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 04:01:10.188
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-09-29 04:01:15.641
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor49.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-29 04:01:18.085
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-29 04:01:20.646
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2017-09-29 10:07:30.428
+!MESSAGE Error disposing widget for : org.eclipse.e4.ui.model.application.ui.menu.impl.MenuImpl null
+!STACK 0
+org.eclipse.swt.SWTException: Graphic is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4533)
+	at org.eclipse.swt.SWT.error(SWT.java:4448)
+	at org.eclipse.swt.SWT.error(SWT.java:4419)
+	at org.eclipse.swt.graphics.Font.getFontData(Font.java:192)
+	at org.eclipse.swt.custom.CTabFolderRenderer.drawChevron(CTabFolderRenderer.java:909)
+	at org.eclipse.swt.custom.CTabFolderRenderer.draw(CTabFolderRenderer.java:605)
+	at org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering.draw(CTabRendering.java:252)
+	at org.eclipse.swt.custom.CTabFolder.createButtonImage(CTabFolder.java:721)
+	at org.eclipse.swt.custom.CTabFolder.setButtonBounds(CTabFolder.java:2541)
+	at org.eclipse.swt.custom.CTabFolder.updateItems(CTabFolder.java:3766)
+	at org.eclipse.swt.custom.CTabFolder.updateItems(CTabFolder.java:3697)
+	at org.eclipse.swt.custom.CTabFolder.onResize(CTabFolder.java:2090)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:340)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Control.sendResize(Control.java:3042)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:1058)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1108)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3211)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:1062)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1108)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3211)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:1062)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1108)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3292)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3288)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:301)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:246)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:163)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:1062)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1108)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3211)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1797)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4874)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5699)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4887)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1482)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3259)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1102)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3292)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3288)
+	at org.eclipse.swt.custom.StackLayout.layout(StackLayout.java:123)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1797)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4874)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5699)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4887)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1482)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3259)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1102)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3292)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3288)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:301)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:246)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:163)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1797)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4874)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5699)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4887)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1482)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3259)
+	at org.eclipse.swt.widgets.Composite.setBoundsInPixels(Composite.java:1102)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3220)
+	at org.eclipse.swt.widgets.Control.setBoundsInPixels(Control.java:3216)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3211)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1386)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1797)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4874)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5699)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4887)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.EndDeferWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:1030)
+	at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:996)
+	at org.eclipse.swt.widgets.Composite.setResizeChildren(Composite.java:1210)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1801)
+	at org.eclipse.swt.widgets.Canvas.WM_SIZE(Canvas.java:492)
+	at org.eclipse.swt.widgets.Decorations.WM_SIZE(Decorations.java:1849)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4874)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1656)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:506)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5699)
+	at org.eclipse.swt.widgets.Canvas.WM_WINDOWPOSCHANGED(Canvas.java:499)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4887)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1656)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.SetMenu(Native Method)
+	at org.eclipse.swt.widgets.Decorations.setMenuBar(Decorations.java:1187)
+	at org.eclipse.swt.widgets.Menu.releaseParent(Menu.java:1206)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:844)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:460)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:176)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:918)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$1(PartRenderingEngine.java:846)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$3.run(PartRenderingEngine.java:841)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:825)
+	at org.eclipse.ui.internal.WorkbenchWindow$1.handleEvent(WorkbenchWindow.java:322)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:151)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:139)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:124)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:836)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:460)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:459)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:737)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3875)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:298)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3358)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:506)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4897)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1656)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:396)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:115)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:210)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:213)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$1.handleEvent(IDEWorkbenchAdvisor.java:165)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3371)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:506)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4897)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1656)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.equinox.event 4 0 2017-09-29 10:07:30.631
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=org/eclipse/e4/ui/model/ui/UIElement/widget/SET] {ChangedElement=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@11f70bc (elementId: org.eclipse.e4.ui.compatibility.editor, tags: [Editor, org.eclipse.php.editor, removeOnHide], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@16949c8, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor@5dd5af, context: PartImpl (org.eclipse.e4.ui.compatibility.editor) Context, variables: [], label: cond_boucles.php, iconURI: platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png, tooltip: null, dirty: false, closeable: true, description: null), Widget=null, org.eclipse.e4.data={ChangedElement=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@11f70bc (elementId: org.eclipse.e4.ui.compatibility.editor, tags: [Editor, org.eclipse.php.editor, removeOnHide], contributorURI: null) (widget: null, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@16949c8, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor@5dd5af, context: PartImpl (org.eclipse.e4.ui.compatibility.editor) Context, variables: [], label: cond_boucles.php, iconURI: platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png, tooltip: null, dirty: false, closeable: true, description: null), AttName=widget, EventType=SET, OldValue=ContributedPartRenderer$2 {}, Widget=null}, AttName=widget, EventType=SET, OldValue=ContributedPartRenderer$2 {}} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@16d17ca
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.NavigationHistory.getDisplay(NavigationHistory.java:176)
+	at org.eclipse.ui.internal.NavigationHistory.markEditor(NavigationHistory.java:193)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActiveEditorSources(WorkbenchPage.java:411)
+	at org.eclipse.ui.internal.WorkbenchPage.firePartClosed(WorkbenchPage.java:5164)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart$1.handleEvent(CompatibilityPart.java:102)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4821)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:211)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:151)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:139)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:124)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1084)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:836)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:952)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:171)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:807)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1368)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:839)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:460)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:459)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:737)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3875)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:298)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3358)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:506)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4897)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1656)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:396)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:115)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:210)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:213)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$1.handleEvent(IDEWorkbenchAdvisor.java:165)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4418)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3371)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2547)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:506)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4897)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1656)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5123)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SESSION 2017-09-29 14:43:35.982 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-29 14:43:39.467
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-29 14:44:00.874
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-29 14:44:12.196
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.debug.ui.DebugEarlyStartup.earlyStartup(DebugEarlyStartup.java:36)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:77)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:53)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2835)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 15:03:54.900
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-09-29 15:04:00.303
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor48.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-29 15:04:02.775
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-29 15:04:05.343
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+!SESSION 2017-09-29 21:59:38.179 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-29 21:59:59.204
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-29 22:00:05.248
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.exists(AbstractDebuggerSettingsProvider.java:225)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.load(AbstractDebuggerSettingsProvider.java:285)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.fetchProviders(DebuggerSettingsProviderRegistry.java:146)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.readFromExtensionPoint(DebuggerSettingsProviderRegistry.java:105)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProviders(DebuggerSettingsProviderRegistry.java:80)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProvider(DebuggerSettingsProviderRegistry.java:71)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<init>(DebuggerSettingsManager.java:148)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<clinit>(DebuggerSettingsManager.java:36)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.perform(PHPDebugPlugin.java:105)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.access$0(PHPDebugPlugin.java:96)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart$1.run(PHPDebugPlugin.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.392
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.393
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-29 22:15:50.393
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-09-29 22:15:55.650
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-29 22:15:57.751
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-29 22:16:00.023
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+!SESSION 2017-09-30 17:57:37.047 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-30 17:58:21.470
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-09-30 17:58:35.283
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.exists(AbstractDebuggerSettingsProvider.java:225)
+	at org.eclipse.php.internal.debug.core.debugger.AbstractDebuggerSettingsProvider.load(AbstractDebuggerSettingsProvider.java:285)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.fetchProviders(DebuggerSettingsProviderRegistry.java:146)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.readFromExtensionPoint(DebuggerSettingsProviderRegistry.java:105)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProviders(DebuggerSettingsProviderRegistry.java:80)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsProviderRegistry.getProvider(DebuggerSettingsProviderRegistry.java:71)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<init>(DebuggerSettingsManager.java:148)
+	at org.eclipse.php.internal.debug.core.debugger.DebuggerSettingsManager.<clinit>(DebuggerSettingsManager.java:36)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.perform(PHPDebugPlugin.java:105)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart.access$0(PHPDebugPlugin.java:96)
+	at org.eclipse.php.internal.debug.core.PHPDebugPlugin$PostStart$1.run(PHPDebugPlugin.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-09-30 19:05:38.592
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-09-30 19:05:44.893
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor54.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-30 19:05:47.370
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-09-30 19:05:49.840
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+
+!ENTRY org.eclipse.ui 4 4 2017-09-30 22:24:52.441
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@5c637d)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@5c637d)}
+!SESSION 2017-10-02 00:55:40.987 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-02 00:56:04.577
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-10-02 00:56:17.030
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.debug.ui.DebugEarlyStartup.earlyStartup(DebugEarlyStartup.java:36)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:77)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:53)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2835)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 01:40:03.827
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-10-02 01:40:09.227
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor52.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-10-02 01:40:11.723
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-10-02 01:40:14.080
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.
+
+!ENTRY org.eclipse.ui 4 4 2017-10-02 02:26:13.380
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@d54017)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@d54017)}
+!SESSION 2017-10-02 17:35:34.211 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\Harry\Documents\PHP Projects -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-02 17:36:00.884
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Harry'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.php.debug.core 4 4 2017-10-02 17:36:17.579
+!MESSAGE Could not obtain PHP executable info.
+!STACK 0
+org.eclipse.php.internal.debug.core.PHPExeException: Cannot determine version of the PHP executable (C:\MAMP\bin\php\php7.0.13\php-cgi.exe).
+	at org.eclipse.php.internal.debug.core.PHPExeUtil.getPHPInfo(PHPExeUtil.java:195)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.detectFromPHPExe(PHPexeItem.java:353)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexeItem.<init>(PHPexeItem.java:121)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.load(PHPexes.java:497)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.<init>(PHPexes.java:102)
+	at org.eclipse.php.internal.debug.core.preferences.PHPexes.getInstance(PHPexes.java:94)
+	at org.eclipse.php.debug.ui.DebugEarlyStartup.earlyStartup(DebugEarlyStartup.java:36)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:77)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:53)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2835)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.ui 4 4 2017-10-02 18:00:12.528
+!MESSAGE Conflicting handlers for org.eclipse.dltk.ui.edit.text.script.open.editor: {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@afe9f2)} vs {ActionHandler(org.eclipse.dltk.ui.actions.OpenAction@afe9f2)}
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 915, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1091, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 1953, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2115, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2450, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 2988, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 3036, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-10-02 18:01:56.617
+!MESSAGE Error in file:/C:/Users/Harry/Documents/eclipse/p2/org.eclipse.equinox.p2.repository/cache/content1563913702.jar at line 4598, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2017-10-02 18:02:02.743
+!MESSAGE Unable to read repository at https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0.
+!STACK 0
+java.io.IOException: https://projects.eclipse.org/projects/webtools.jsdt/releases/3.8.0 is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:102)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor51.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:74)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-10-02 18:02:05.217
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-10-02 18:02:07.768
+!MESSAGE No repository found at http://www.eclipse.org/webtools/jsdt/.

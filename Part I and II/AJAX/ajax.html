@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>XMLHttpRequest</title>
+</head>
+<body>
+<p>
+    Veuillez choisir quel est le fichier dont vous souhaitez voir le contenu :
+</p>
+<p>
+    <input type="button" value="text1.txt" />
+    <input type="button" value="text2.txt" />
+    <input type="button" value="text2.xml" />
+    <br /><br />
+    <input type="button" value="unknown.txt" />
+</p>
+<p id="fileContent">
+    <span>Aucun fichier chargé</span>
+</p>
+<script>
+    function loadFile(file){
+        var xhr = new XMLHttpRequest();
+        //Je souhaite juste récupérer le contenu du fichier, la méthode GET suffit amplement :
+        xhr.open('GET', file);
+        xhr.addEventListener('readystatechange', function(){ //On gère ici une requête asynchrone
+            if(xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {//Si fichier chargé sans erreur
+                if (xhr.responseXML) // puis-je faire cela ??
+                    document.getElementById('fileContent').innerHTML = '<span>XML : '
+                        + xhr.responseXML.querySelector('bidule').innerHTML + '</span>';
+                else
+                    document.getElementById('fileContent').innerHTML = '<span>' + xhr.responseText + '</span>'; //On affiche !
+            }
+            else if(xhr.readyState === XMLHttpRequest.DONE && xhr.status != 200) // if error
+                alert('Une erreur est survenue ! \n\nCode : ' + xhr.status + '\nTexte : ' + xhr.statusText);
+        });
+
+        xhr.send(null); //La requête est prête, on envoie tout !
+    }
+
+    (function(){ //Comme d'hab, une IIFE pour éviter les variables globales
+        var butts = document.getElementsByTagName('input');
+
+        for(var i = 0; i < butts.length; i++)
+            butts[i].addEventListener('click', function(){
+                loadFile(this.value); //A chaque clique, un fichier sera chargé dans la page
+            });
+    })();
+
+</script>
+</body>

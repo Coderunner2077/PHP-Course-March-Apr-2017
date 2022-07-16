@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<pre>
+												<h2>Protéger un dossier avec un .htaccess</h2>
+												
+Lorsqu'on réalise son site en PHP, on est souvent amené à créer une zone "Admin" où l'accès est limité... Et il vaut mieux, car
+les personnes qui ont accès à la zone Admin peuvent en général tout supprimer si elles le désirent.
+
+Supposons que l'on ait besoin de créer un dossier "Admin" dans lequel il y a des fichiers d'administration du site. Comment empêcher
+que n'importe qui ait accès à ces pages ? C'est là que les fichiers .htaccess entrent en jeu : on peut très facilement créer une 
+protection par login/mot de passe qui empêche l'accès à tous les fichiers du dossier.
+
+Il va falloir créer deux fichiers :
+
+	-	.htaccess : ce fichier contiendra l'adresse du .htpasswd et quelques autres options que je pourrai définir.
+	-	.htpasswd : ce fichier contiendra une liste de logins/mots de passe pour chaque personne autorisée à accéder aux pages
+	
+<h3>
+I./ Créer le .htaccess
+</h3>
+
+La première étape est de créer sur mon disque dur un fichier appelé ".htaccess". C'est un fichier qui n'a pas de nom et qui a
+seulement une extension, à savoir .htaccess. 
+
+J'ouvre ce fichier avec mon éditeur de texte favori pour y inscrire des codes qui ne relèvent ni du HTML, ni du PHP : ce seront des
+insctructions pour le serveur. Elles vont lui expliquer que certaines personnes seulement sont autorisées à accéder au dossier.
+Voici le code (à adapter légèrement) justement : 
+
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "/home/site/www/admin/.htpasswd"
+Require valid-user
+
+
+Parmi ces quatre lignes, il y en a deux que je vais devoir changer :
+
+	-	AuthName : c'est le texte qui invitera l'utilisateur à inscrire son login et son mot de passe. Je peux personnaliser ce
+					texte comme bon me semble.
+	-	AuthUserFile : là, c'est plus délicat; c'est le chemin absolu vers le fichier .htpasswd (que je mettrai dans le même 
+					répertoire que .htaccess) 
+					
+Et comment trouve-t-on le chemin absolu ??
+
+En effet, la plupart du temps, cela s'avère délicat à trouver car cela dépend du serveur. Heureusement, il existe une fonction
+PHP  qui va bcp m'aider : realpath(). Cette fonction donne le chemin absolu vers le fichier que j'indique. Je vais donc faire comme
+suit pour trouver le chemin absolu.
+
+	1.	i./ Créer un fichier appelé chemin.php
+		ii./ Inscrire juste cette ligne de code à l'intérieur :
+			&lt;?php echo realpath('chemin.php'); ?&gt;
+	2.	i./ Envoyer ce fichier sur mon serveur avec mon logiciel FTP, en le plaçant dans le dossier que je souhaite protéger
+		ii./ J'ouvre dans mon navigateur ce fichier chemin.php pour voir le chemin absolu 
+	3.	i./ Je copie ce chemin dans mon .htaccess, en remplaçant le "chemin.php" par ".htpasswd"
+		ii./ Je supprime le fichier chemin.php de mon serveur, il ne me sert plus à rien maintenant qu'il m'a donné le chemin absolu
+		
+Attention : 
+Si je suis hébergé chez Free, il y a une petite subtilité dans la gestion de la localisation du .htpasswd : je ne dois pas
+renseigner la ligne AuthUserFile par le chemin absolu du fichier, mais par son chemin relatif à partir de la racine de mon espace
+perso. Exemple : si j'utilise un espace Free nommé monftpfree, et que je place mon fichier .htpasswd dans un dossier nommé admin, 
+le fichier chemin.php me renverra un chemin sous la forme /mnt/XXX/sda/monftpfree/admin/.htpasswd. je dois alors simplement
+écrire ==> /monftpfree/admin/.htpasswd
+
+J'enregistrerai le fichier en inscrivant le nom entre guillemets, comme ceci : ".htaccess". Cela permet de forcer l'éditeur à
+enregistrer un fichier qui commence par un point. 
+
+Voilà pour la création du .htaccess. Passons maintenant à .htpasswd !
+
+<h3>
+II./ Créer le .htpasswd
+</h3>
+Il faut maintenant créer un nouveau fichier avec mon éditeur de texte. 
+
+Le .htpasswd va contenir la liste des personnes autorisées à accéder aux pages du dossier. On y inscrit une personne par ligne, sous
+cette forme : 
+
+login:mot_de_pass_crypté
+
+Au final, mon fichier crypté devrait ressembler à ceci : 
+
+mateo21:$1$MEqT//cb$hAVid.qmmSGFW/wDlIfQ81
+ptipilou:$1$/lgP8dYa$sQNXcCP47KhP1sneRIZoO0
+djfox:$1$lT7nqnsg$cVtoPfe0IgrjES7Ushmoy.
+vincent:$1$h4oVHp3O$X7Ejpn.uuOhJRkT3qnw3i0
+
+Dans cet exemple, il y a quatre personnes autorisées à accéder au dossier : mateo21, ptipilou, djfox et vincent.
+
+Comment peut-on crypter les mots de passe ? 
+
+Bonne question : Encore une fois, il y a une super fonction PHP qui va me tirer d'affaire ==> crypt(). Je n'ai qu'à lui fournir
+en paramètre un mot de passe, et elle me le crypte. 
+
+Par exemple, si mon mot de passe est "kangourou", voici le code PHP que je devrai écrire pour l'obtenir en version cryptée : 
+
+&lt;?php echo crypt('kangourou'); ?&gt;
+
+Crypter ses mots de passe est très utile, en effet, si quelqu'un vient un jour à lire mon fichier .htpasswd (quelqu'un qui utilise
+le même PC que moi par exemple), il ne verra que le mot de passe crypté. Et là, aucun risque qu'il retrouve mon mot de passe : ce
+cryptage est indéchiffrable. Il est à sens unique (il s'agit en fait d'une autre forme de hachage que celle de la fonction sha1()).
+
+Voici une page qui me sera utile pour pouvoir crypter rapidement mes mots de passe pour le .htpasswd. 
+
+Réf crypter.php
+
+Avec ça, je n'aurai qu'à copier coller le mot de passe crypté.
+
+Attention : Il y a certains cas où je ne devrai pas crypter les mots de passe. Sous WAMP ou sur les serveur Free.fr par exemple,
+JE NE DEVRAI PAS crypter mes mots de passe pour que cela fonctionne. Je devrai donc les écrire directement. 
+Exemple : mateo21:kangourou
+
+<h3>
+III./ Envoyer les fichiers sur le serveur
+</h3>
+J'ai maintenant deux fichiers sur mon disque dur : .htaccess et .htpasswd.
+
+Je lance mon logiciel FTP. Je transfère les fichiers .htaccess et .htpasswd dans le dossier que je souhaite protéger par un 
+mot de passe. 
+
+Et c'est tout. Le dossier est protégé. Si quelqu'un tente d'accéder à l'une des pages du dossier, il obtiendra une fenêtre lui
+demandant de se logger. 
+
+Remarque : sous MAMP non plus, je n'ai pas à crypter les mots de passe...
+		
+</pre>
+</body>
+</html>

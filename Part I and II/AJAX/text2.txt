@@ -1,0 +1,2 @@
+Et maintenant, voici le contenu du fichier text2.txt
+
